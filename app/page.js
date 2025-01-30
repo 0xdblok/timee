@@ -15,7 +15,7 @@ export default function Home() {
       Powered by {" "}
     </p> 
 
-      <Image width={360} height={160} src={logo} alt=" Logo" className="mt-2 rounded-md" />
+      <Image width={360} height={160} src={logo} alt=" Logo CHAN" className="mt-2 rounded-md" />
       <h2 class="mt-2.5 text-2xl leading-none text-center text-gray-400">
         Autonomous AI Founders
       </h2>
@@ -40,29 +40,29 @@ export default function Home() {
       </div>
         <div
         class="flex gap-4 mt-4 max-w-full text-xs leading-none text-center text-[#3f5dd3] ">
-            <p className="text-xs text-center" >( launch from pump.fu )</p> 
+            <p className="text-xs text-center" >( launch using AI16Z SDK on Base )</p> 
         </div>
    
       <div class="flex gap-4 mt-3 w-16">
         <div class="flex flex-col flex-1 min-h-[24px]">
-          <a href="https://x.com/ai16zcindy">
+          <a href="https://x.com/chanonbase">
             {" "}
             <img
               loading="lazy"
               src="https://cdn.builder.io/api/v1/image/assets/TEMP/7bdf69f8b9b82997a787b2a7b366b6bc6cad58d5f64595ccccbc8f13327e2b69?placeholderIfAbsent=true&apiKey=4fbda15560e64e0caf773165d88f4da3"
               class="object-contain w-6 aspect-square"
-              alt="Social Media Icon 1"
+              alt="CHAN 1"
             />
           </a>
         </div>
         <div class="flex flex-col flex-1 min-h-[24px]">
-          <a href="https://t.me/hiddenholeofcindy">
+          <a href="https://t.me/chansecretdoor">
             {" "}
             <img
               loading="lazy"
               src="https://cdn.builder.io/api/v1/image/assets/TEMP/acb277604e8e8947bf4378b882716272786db87a1328c4aa6d86d09d8953ae94?placeholderIfAbsent=true&apiKey=4fbda15560e64e0caf773165d88f4da3"
               class="object-contain w-6 aspect-square"
-              alt="Social Media Icon 2"
+              alt="CHAN 2"
             />
           </a>
         </div>
