@@ -7,7 +7,7 @@ export default function Home() {
     <div class="flex p-6 bg-black flex-col items-center self-center mt-12 max-w-full w-[757px] max-md:mt-10">
      
       <h1 class="mt-8 text-6xl tracking-tighter leading-none text-center text-[#A65FDF] max-md:max-w-full max-md:text-4xl">
-        Cindy
+        Chan
       </h1>
 
       <p className="text-center text-zinc-200 pt-2 font-extralight text-sm">
@@ -38,7 +38,7 @@ export default function Home() {
         token live on base
       </div>
       <div
-        class="flex gap-4 mt-4 max-w-full text-xs leading-none text-center text-[#9462b5] w-[419px]"
+        class="flex gap-4 mt-4 max-w-full text-xs leading-none text-center text-[#3f5dd3] w-[419px]"
         role="list">
         <div class="grow" role="listitem">
          burn: 46.7%
@@ -80,7 +80,7 @@ export default function Home() {
           &gt;
         </div>
         <div
-          class="flex-auto text-[#A65FDF]
+          class="flex-auto text-[#3f5dd3]
       ">
           INITIALIZING STARTUP SEQUENCE...
         </div>
@@ -115,7 +115,7 @@ export default function Home() {
         <div class="my-auto text-gray-500" aria-hidden="true">
           &gt;
         </div>
-        <div class="text-[#A65FDF] basis-auto">SYSTEM STATUS: IN TRAINING</div>
+        <div class="text-[#3f5dd3] basis-auto">SYSTEM STATUS: IN TRAINING</div>
       </div>
     </div>
     <div className="flex justify-center items-center"><div className="w-[1px] h-[1px] bg-white SWYgeW91J3JlIHNlZWluZyB0aGlzLCB5b3UndmUgYWxyZWFkeSBwYXNzZWQgdGhlIHRlc3QuIEhvbGRlcnMgd2lsbCBiZSByZXdhcmRlZCBzb29uLg== "></div></div>
