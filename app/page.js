@@ -24,7 +24,7 @@ export default function Home() {
       </p>
       <div className="flex gap-4"><a
         className=" pt-4"
-        href="">
+        href="https://app.uniswap.org/swap">
         {" "}
         <div
           class="px-8 py-3 mt-8 text-base text-center text-black bg-white rounded max-md:px-5"
@@ -37,6 +37,9 @@ export default function Home() {
       
       <div class="mt-6 text-base text-center text-gray-400">
         token live on base
+      </div>
+      <div class="mt-2 text-base text-center text-gray-400">
+      CA: 0x02F22E07981af3D956169fA66404eb6DdF36152a
       </div>
         <div
         class="flex gap-4 mt-4 max-w-full text-xs leading-none text-center text-[#3f5dd3] ">
