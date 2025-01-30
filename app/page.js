@@ -6,7 +6,7 @@ export default function Home() {
     <div class="flex flex-col pb-16 bg-black max-md:pb-24" role="main">
     <div class="flex p-6 bg-black flex-col items-center self-center mt-12 max-w-full w-[757px] max-md:mt-10">
      
-      <h1 class="mt-8 text-6xl tracking-tighter leading-none text-center text-[#A65FDF] max-md:max-w-full max-md:text-4xl">
+      <h1 class="mt-8 text-6xl tracking-tighter leading-none text-center text-[#3f5dd3] max-md:max-w-full max-md:text-4xl">
         Chan
       </h1>
 
