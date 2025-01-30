@@ -37,17 +37,11 @@ export default function Home() {
       <div class="mt-6 text-base text-center text-gray-400">
         token live on base
       </div>
-      <div
-        class="flex gap-4 mt-4 max-w-full text-xs leading-none text-center text-[#3f5dd3] w-[419px]"
-        role="list">
-        <div class="grow" role="listitem">
-         burn: 46.7%
+        <div
+        class="flex gap-4 mt-4 max-w-full text-xs leading-none text-center text-[#3f5dd3] ">
+            <p className="text-xs text-center" >( launch from pump.fu )</p> 
         </div>
-        <div role="listitem">liquidity: 28.2%</div>
-        <div class="grow shrink w-[159px]" role="listitem">
-          community: 25.1%
-        </div>
-      </div>
+   
       <div class="flex gap-4 mt-3 w-16">
         <div class="flex flex-col flex-1 min-h-[24px]">
           <a href="https://x.com/ai16zcindy">
@@ -126,3 +120,14 @@ export default function Home() {
   </div>
   );
 }
+   /*<div
+        class="flex gap-4 mt-4 max-w-full text-xs leading-none text-center text-[#3f5dd3] w-[419px]"
+        role="list">
+        <div class="grow" role="listitem">
+         burn: 46.7%
+        </div>
+        <div role="listitem">    community: 25.1%</div>
+        <div class="grow shrink w-[159px]" role="listitem">
+          community: 25.1%
+        </div>
+      </div>*/
