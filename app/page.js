@@ -4,8 +4,9 @@ import logo from "./logo.jpg"
 export default function Home() {
   return (
     <div class="flex flex-col pb-16 bg-black max-md:pb-24" role="main">
+        
     <div class="flex p-6 bg-black flex-col items-center self-center mt-12 max-w-full w-[757px] max-md:mt-10">
-     
+    <div className="SWYgeW91J3JlIHNlZWluZyB0aGlzLCB5b3UndmUgYWxyZWFkeSBwYXNzZWQgdGhlIHRlc3QuIEhvbGRlcnMgd2lsbCBiZSByZXdhcmRlZCBzb29uLg== flex justify-center items-center"><div className="w-[1px] h-[1px] bg-white  "></div></div>
       <h1 class="mt-8 text-6xl tracking-tighter leading-none text-center text-[#3f5dd3] max-md:max-w-full max-md:text-4xl">
         Chan
       </h1>
@@ -112,7 +113,7 @@ export default function Home() {
         <div class="text-[#3f5dd3] basis-auto">SYSTEM STATUS: IN TRAINING</div>
       </div>
     </div>
-    <div className="flex justify-center items-center"><div className="w-[1px] h-[1px] bg-white SWYgeW91J3JlIHNlZWluZyB0aGlzLCB5b3UndmUgYWxyZWFkeSBwYXNzZWQgdGhlIHRlc3QuIEhvbGRlcnMgd2lsbCBiZSByZXdhcmRlZCBzb29uLg== "></div></div>
+  
   
     <p className="text-center text-zinc-200 pt-28 pb- font-extralight text-sm">
       All Rights Reserve ©{" "}
